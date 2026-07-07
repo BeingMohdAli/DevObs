@@ -109,7 +109,6 @@ DevObs is built for **local development and personal/trusted-network use**. Befo
 
 Issues and pull requests are welcome. If you're adding new tools, please keep the `tools/` (MCP-facing) and `services/` (actual logic) separation intact — it keeps the codebase testable and easy to reason about.
 
-## License
+## License - MIT
 
-MIT 
 contact me at - mohdalisaad868@gmail.com
