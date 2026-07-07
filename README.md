@@ -1,4 +1,5 @@
-# DevObs
+# DevObs  <img width="940" height="322" alt="image" src="https://github.com/user-attachments/assets/c487b216-c104-4764-a056-17562ce0afa0" />
+
 
 **DevObs** — short for **Dev**Ops + **Obs**ervability — is an MCP (Model Context Protocol) server that lets you check system health, manage Docker containers, debug network issues, and inspect application logs, all through natural conversation with an AI assistant instead of juggling a dozen terminal commands.
 
