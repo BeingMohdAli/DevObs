@@ -1,0 +1,12 @@
+[project]
+name = "mcp-devops-observability-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "docker>=7.1.0",
+    "fastmcp>=3.4.2",
+    "psutil>=7.2.2",
+    "requests>=2.34.2",
+]
