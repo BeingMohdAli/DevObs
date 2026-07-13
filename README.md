@@ -13,6 +13,7 @@ The name reflects exactly what this tool does — it sits at the intersection of
 
 - **DevOps** — managing infrastructure day-to-day: starting/stopping containers, checking what's running, keeping services healthy
 - **Observability** — understanding the current state of a system: CPU, memory, disk, network reachability, and logs
+<img width="1522" height="792" alt="image" src="https://github.com/user-attachments/assets/9edbddd4-53c7-44b3-8adf-a1d3061cb021" />
 
 DevObs doesn't replace full observability platforms like Prometheus or Datadog (it has no historical metrics or alerting), but it **replaces the manual, repetitive triage work** those platforms don't cover — the "let me quickly check five things across five terminal windows" moment every developer and DevOps engineer knows well.
 
