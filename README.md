@@ -19,6 +19,8 @@ DevObs doesn't replace full observability platforms like Prometheus or Datadog (
 
 ## Who this helps
 
+![Uploading image.png…]()
+
 **Developers** who just want a fast answer without memorizing Docker flags, `psutil` syntax, or `nc`/`curl` incantations — describe what you need in plain language.
 
 ![Uploading image.png…]()
