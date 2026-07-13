@@ -23,7 +23,6 @@ DevObs doesn't replace full observability platforms like Prometheus or Datadog (
 
 **Developers** who just want a fast answer without memorizing Docker flags, `psutil` syntax, or `nc`/`curl` incantations — describe what you need in plain language.
 
-![Uploading image.png…]()
 
 **DevOps / SRE engineers** doing quick incident triage — check container status, restart a crashed service, verify a port is open, and read recent logs, all in one continuous conversation instead of bouncing between tools.
 
